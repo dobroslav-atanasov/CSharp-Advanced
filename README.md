@@ -10,3 +10,5 @@ SoftUni course CSharp Advanced - January 2018: All tasks with their solutions.
   6. Regular Expressions
   7. Functional Programming
   8. Built-In Query Methods - LINQ
+
+## Repository content:
