@@ -12,7 +12,8 @@ SoftUni course CSharp Advanced - January 2018: All tasks with their solutions.
 - Built-In Query Methods - LINQ
 
 ## Repository content:
-Theme							| Labs																																| Exercises																																	| More Exercises
+Theme							| Labs																																| Exercises																																	
 --------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------
+Stacks and Queues				| [Lab]																																| [Exercises]
 
 ### [Resources]()	
