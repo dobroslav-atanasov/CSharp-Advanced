@@ -3,13 +3,9 @@ SoftUni course CSharp Advanced - January 2018: All tasks with their solutions.
 
 ## Course content:
 - Stacks and Queues
-- Sets and Dictionaries
 - Matrices
 - Streams
-- Manual String Processing
-- Regular Expressions
 - Functional Programming
-- Built-In Query Methods - LINQ
 
 ## Repository content:
 Theme							| Labs																																| Exercises																																	
