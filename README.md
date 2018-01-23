@@ -14,14 +14,14 @@ SoftUni course CSharp Advanced - January 2018: All tasks with their solutions.
 - LINQ
 
 ## Repository content:
-Theme							| Labs																																| Exercises																																	
+Themes							| Labs																																| Exercises																																	
 --------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------
 Stacks and Queues				| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/01.%20StacksAndQueues-Lab)								| [Exercises](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/02.%20StacksAndQueues-Exercises)
 Multidimensional Arrays			| [Lab]																																| [Exercises]
 Streams  						| [Lab]																																| [Exercises]
 Functional Programming			| [Lab]																																| [Exercises]
 
-Additional Theme				| Labs																																| Exercises																																	
+Additional Themes				| Labs																																| Exercises																																	
 --------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------
 Sets and Dictionaries			| [Lab]																																| [Exercises]
 Manual Strings Processing		| [Lab]																																| [Exercises]
