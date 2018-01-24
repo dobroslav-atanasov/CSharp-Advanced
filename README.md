@@ -23,7 +23,7 @@ Functional Programming			| [Lab]																																| [Exercises]
 
 Additional Themes				| Labs																																| Exercises																																	
 --------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------
-Sets and Dictionaries			| [Lab]																																| [Exercises]
+Sets and Dictionaries			| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/09.%20SetsAndDictionaries-Lab)							| [Exercises]
 Manual Strings Processing		| [Lab]																																| [Exercises]
 Regular Expressions				| [Lab]																																| [Exercises]
 LINQ 							| [Lab]																																| [Exercises]
