@@ -19,13 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. LegoBlocks", "07. LegoB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. RadioactiveBunnies", "08. RadioactiveBunnies\08. RadioactiveBunnies.csproj", "{9B414647-8EBF-453E-BA1E-D4988AB911D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Crossfire", "09. Crossfire\09. Crossfire.csproj", "{366095F8-E93D-485D-9F7A-D7C8347D474E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Crossfire", "09. Crossfire\09. Crossfire.csproj", "{366095F8-E93D-485D-9F7A-D7C8347D474E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. TheHeiganDance", "10. TheHeiganDance\10. TheHeiganDance.csproj", "{F19D0E33-D645-4BBF-B9B6-D708EF9EDF20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. TheHeiganDance", "10. TheHeiganDance\10. TheHeiganDance.csproj", "{F19D0E33-D645-4BBF-B9B6-D708EF9EDF20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. ParkingSystem", "11. ParkingSystem\11. ParkingSystem.csproj", "{89A61341-C8F5-4E57-ACB5-836C9F7F66C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. ParkingSystem", "11. ParkingSystem\11. ParkingSystem.csproj", "{89A61341-C8F5-4E57-ACB5-836C9F7F66C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. StringMatrixRotation", "12. StringMatrixRotation\12. StringMatrixRotation.csproj", "{53CEAEE1-2490-4DCD-9C5D-58AF9A0ACC87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. StringMatrixRotation", "12. StringMatrixRotation\12. StringMatrixRotation.csproj", "{53CEAEE1-2490-4DCD-9C5D-58AF9A0ACC87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
