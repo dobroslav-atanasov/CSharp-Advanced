@@ -24,7 +24,7 @@ Functional Programming			| [Lab]																																| [Exercises]
 Additional Tasks				| Labs																																| Exercises																																	
 --------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------
 Sets and Dictionaries			| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/09.%20SetsAndDictionaries-Lab)							| [Exercises](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/10.%20SetsAndDictionaries-Exercises)
-Manual Strings Processing		| [Lab]																																| [Exercises]
+Manual Strings Processing		| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/11.%20ManualStringsProcessing-Lab)						| [Exercises](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/12.%20ManualStringsProcessing-Exercises)
 Regular Expressions				| [Lab]																																| [Exercises]
 LINQ 							| [Lab]																																| [Exercises]
 
