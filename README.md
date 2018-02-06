@@ -26,7 +26,7 @@ Additional Tasks				| Labs																																| Exercises
 Sets and Dictionaries			| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/09.%20SetsAndDictionaries-Lab)							| [Exercises](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/10.%20SetsAndDictionaries-Exercises)
 Manual Strings Processing		| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/11.%20ManualStringsProcessing-Lab)						| [Exercises](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/12.%20ManualStringsProcessing-Exercises)
 Regular Expressions				| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/13.%20RegularExpressions-Lab)								| [Exercises](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/14.%20RegularExpressions-Exercises)
-LINQ 							| [Lab]																																| [Exercises]
+LINQ 							| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/15.%20LINQ-Lab)											| [Exercises]
 
 - [Exam Preparation I: C# Advanced Exam 13 June 2016]
 - [Exam Preparation II: C# Advanced Exam 19 June 2016]
