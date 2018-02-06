@@ -21,6 +21,7 @@ Multidimensional Arrays			| [Lab](https://github.com/dobroslav-atanasov/CSharp-A
 Streams  						| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/05.%20FilesAndStreams-Lab)								| [Exercises](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/06.%20FilesAndStreams-Exercises)
 Functional Programming			| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/07.%20FunctionalProgramming-Lab)							| [Exercises](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/08.%20FunctionalProgramming-Exercises)
 
+
 Additional Tasks				| Labs																																| Exercises																																	
 --------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------
 Sets and Dictionaries			| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/09.%20SetsAndDictionaries-Lab)							| [Exercises](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/10.%20SetsAndDictionaries-Exercises)
@@ -28,9 +29,12 @@ Manual Strings Processing		| [Lab](https://github.com/dobroslav-atanasov/CSharp-
 Regular Expressions				| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/13.%20RegularExpressions-Lab)								| [Exercises](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/14.%20RegularExpressions-Exercises)
 LINQ 							| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/15.%20LINQ-Lab)											| [Exercises]
 
-- [Exam Preparation I: C# Advanced Exam 13 June 2016]() - [Tasks Conditions](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam%20Preparation%20III%20-%20Exam%2025.06.2017)
+
+- [Exam Preparation I: C# Advanced Exam 13 June 2016]() 
 - [Exam Preparation II: C# Advanced Exam 19 June 2016]
-- [Exam Preparation III: C# Advanced Exam 25 June 2017]
+- [Exam Preparation III: C# Advanced Exam 25 June 2017](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/19.%20ExamPreparationIII)  -  [Tasks Conditions](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam%20Preparation%20III%20-%20Exam%2025.06.2017)
 - [Exam Preparation IV: C# Advanced Exam 3 September 2017]
 
 ### [Resources](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources)	
+
+### [Exam - 11 February 2018]()
