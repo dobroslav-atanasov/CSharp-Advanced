@@ -28,7 +28,7 @@ Manual Strings Processing		| [Lab](https://github.com/dobroslav-atanasov/CSharp-
 Regular Expressions				| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/13.%20RegularExpressions-Lab)								| [Exercises](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/14.%20RegularExpressions-Exercises)
 LINQ 							| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/15.%20LINQ-Lab)											| [Exercises]
 
-- [Exam Preparation I: C# Advanced Exam 13 June 2016]
+- [Exam Preparation I: C# Advanced Exam 13 June 2016]() - [Tasks Conditions](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam%20Preparation%20III%20-%20Exam%2025.06.2017)
 - [Exam Preparation II: C# Advanced Exam 19 June 2016]
 - [Exam Preparation III: C# Advanced Exam 25 June 2017]
 - [Exam Preparation IV: C# Advanced Exam 3 September 2017]
