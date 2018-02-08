@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. JediMeditation", "01. JediMeditation\01. JediMeditation.csproj", "{7175A367-2C6B-4BC1-8695-7B257B158978}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. JediGalaxy", "02. JediGalaxy\02. JediGalaxy.csproj", "{B4FFABFD-E728-4E84-9E41-53E56CF2BFE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. JediCodeX", "03. JediCodeX\03. JediCodeX.csproj", "{ABF78D03-407E-406F-820A-88501C03220A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. JediDreams", "04. JediDreams\04. JediDreams.csproj", "{F07CCF4D-6FA1-43D4-93A3-7EFD5B0B850C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7175A367-2C6B-4BC1-8695-7B257B158978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7175A367-2C6B-4BC1-8695-7B257B158978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7175A367-2C6B-4BC1-8695-7B257B158978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7175A367-2C6B-4BC1-8695-7B257B158978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4FFABFD-E728-4E84-9E41-53E56CF2BFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FFABFD-E728-4E84-9E41-53E56CF2BFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FFABFD-E728-4E84-9E41-53E56CF2BFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FFABFD-E728-4E84-9E41-53E56CF2BFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF78D03-407E-406F-820A-88501C03220A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF78D03-407E-406F-820A-88501C03220A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF78D03-407E-406F-820A-88501C03220A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF78D03-407E-406F-820A-88501C03220A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07CCF4D-6FA1-43D4-93A3-7EFD5B0B850C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07CCF4D-6FA1-43D4-93A3-7EFD5B0B850C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07CCF4D-6FA1-43D4-93A3-7EFD5B0B850C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07CCF4D-6FA1-43D4-93A3-7EFD5B0B850C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F888DAC-EDDF-4E99-88C9-02AFE432F44C}
+	EndGlobalSection
+EndGlobal
