@@ -30,10 +30,10 @@ Regular Expressions				| [Lab](https://github.com/dobroslav-atanasov/CSharp-Adva
 LINQ 							| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/15.%20LINQ-Lab)											| [Exercises](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/16.%20LINQ-Exercises)
 
 
-- [Exam Preparation I: C# Advanced Exam 13 June 2016]() 
-- [Exam Preparation II: C# Advanced Exam 19 June 2016]
+- [Exam Preparation I: C# Advanced Exam 13 June 2016](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/17.%20ExamPreparationI) - [Tasks Conditions](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam%20Preparation%20I%20-%20Exam%2013.06.2016)
+- [Exam Preparation II: C# Advanced Exam 19 June 2016] - [Tasks Conditions]
 - [Exam Preparation III: C# Advanced Exam 25 June 2017](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/19.%20ExamPreparationIII)  -  [Tasks Conditions](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam%20Preparation%20III%20-%20Exam%2025.06.2017)
-- [Exam Preparation IV: C# Advanced Exam 3 September 2017]
+- [Exam Preparation IV: C# Advanced Exam 3 September 2017] - [Tasks Conditions]
 
 ### [Resources](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources)	
 
