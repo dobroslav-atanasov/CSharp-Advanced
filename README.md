@@ -37,4 +37,4 @@ LINQ 							| [Lab](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/m
 
 ### [Resources](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources)	
 
-### [Exam - 11 February 2018]()
+### [Exam - 11 February 2018](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Exam-11.02.2018)
