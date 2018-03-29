@@ -42,8 +42,8 @@ LINQ 					     	|[Description](https://github.com/dobroslav-atanasov/CSharp-Adva
 
 |Date				|Descriptions																									|Solutions
 |:-----------------:|:-------------------------------------------------------------------------------------------------------------:|:----------:
-|13 June 2016		|[Description](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam-13.06.2016)		|[Solution]()
-|19 June 2016		|[Description](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam-19.06.2016)		|[Solution]()
-|25 June 2017		|[Description](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam-25.06.2017)		|[Solution]()
-|3 September 2017	|[Description](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam-03.09.2017)		|[Solution]()
-|11 February 2018	|[Description](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam-11.02.2018)		|[Solution]()
+|13 June 2016		|[Description](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam-13.06.2016)		|[Solution](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Exam-13.06.2016)
+|19 June 2016		|[Description](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam-19.06.2016)		|[Solution](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Exam-19.06.2016)
+|25 June 2017		|[Description](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam-25.06.2017)		|[Solution](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Exam-25.06.2017)
+|3 September 2017	|[Description](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam-03.09.2017)		|[Solution](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Exam-03.09.2017)
+|11 February 2018	|[Description](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Resources/Exam-11.02.2018)		|[Solution](https://github.com/dobroslav-atanasov/CSharp-Advanced/tree/master/Exam-11.02.2018)
